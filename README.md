@@ -117,7 +117,8 @@ Shambhunath Institute of Engineering and Technology
 Team Members:
 - Hanshika Srivastava
 - Aradhya Srivastava
-
+- Hariom Chandra Tripathi
+- Munni Kumari
 ---
 
 ## 📜 License
