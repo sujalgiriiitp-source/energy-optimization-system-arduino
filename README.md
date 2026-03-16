@@ -49,6 +49,11 @@ PIR Sensor detects motion → Arduino processes signal → LED/light control →
 
 ![Circuit Diagram](circuit_diagram.png.jpeg)
 
+
+## 📸 Project Setup
+
+![Project Setup](project_setup.jpg)
+
 ---
 
 ## 🧠 Working Principle
@@ -71,8 +76,7 @@ PIR Sensor detects motion → Arduino processes signal → LED/light control →
 
 The Arduino source code is available in this repository.
 
-Main file:
-
+Main file: energy_optimization.ino.ino
 
 ---
 
