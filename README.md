@@ -45,9 +45,9 @@ PIR Sensor detects motion → Arduino processes signal → LED/light control →
 
 ---
 
-## 🔌 Circuit Diagram
+## ## 🔌 Circuit Diagram
 
-circuit_diagram.png.jpeg
+![Circuit Diagram](circuit_diagram.png.jpeg)
 
 ---
 
